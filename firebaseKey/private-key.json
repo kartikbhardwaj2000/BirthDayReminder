@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "birthday-reminder-6989e",
+  "private_key_id": "1b3cdf7b6d7d4929565ee77c19aa4723ee7a5fa3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDg8rVKr1EZPK6H\nx3eQbqK9uN18gFVrAEZ3sAKbF/UJ9h0RBjYzgWqO+GaAyXhu/UzqyUklU1cMhFNO\n6DN6cNELp1FLC2pQYYULiF18dHzjADK72mbVZY78nQNbPQZwoYzXUkUwTyMog0ma\nBdNrbzQarrLAcQAhXvFMUP/JHiZ9Kym271wIYQt7qoRJLwhQV0d2l6msl4aojhAx\n+hAOHAvbjvRNoEvoMin6XUbTTuSrAEPXHmFOfpEGSe7hmy9fKje/FJTsexEKbw5Y\nvLBVHwygWhRz1u+u5Kt1lYo8alD09+lFzPAsq9iltzgYmAzXkNo98pONx+3fwgBj\nsBShN77XAgMBAAECggEAPoR1yinrWh45S1cubZ+x7xR/yehI1RIgg4cRUlVYLsqN\nzXtyeOIQ4Wc75bMYm5AeXmpOv+bnnHzyQk3acL8F+j0oJLkpdOmFdm0RvlMJmnUl\npHvQdKJjGOXyVtsg/RCI+hbNT93OoaXLQNk5pvQjAP9ogn9lT+D5IwKn9BdDDyn4\nVwY0TKCkJh0YS3LJFT8/Qz1FtEtA/WNK/HVqbc7xZ7ZKwqNaCbXxGxl69zZrLj23\nvyXtGJq9xlQnnCdsmgjmF8JxGYLqAVeAAk/+xuLO4E/GjHOcL6/jcVJyZ0JqSCgk\nAbUuMb9rjoxD6kH263fmU9ZbscohwZ31//lbjz6/EQKBgQD4qnMkRl0T1ukUpoAy\nBIsZMB1fpwC4CBPOmlHpimteE3xeIbK0Bp2QMUAanFfU2vR29Io7OWtZCeo7njra\n4a7VsUZcIQnsIJk6+BEZPo9BaGrDSux4isJfGRjm2hxCDbxn0xOKFIx617BHHZ0k\nvBpvb97LU5M2kLneelc0VSn9DQKBgQDnlS19knCTDfRsHTNI/EThBYHkzY1JrztB\ngvZI0d+iTaggYGiJug7I09gFRbQY/tZHUjWGt8eKY9k/81wouujtRlPm8DXBCLxB\nJpgtxldEeGkbTCLC4UlpcDjIsL/FRkRqEAMwh/qGDyIIeSP8v4fSAFtbfq9W3bH6\n3gccKdbacwKBgQD0Sn/To0zNsNRK9Uf723rLw/kXf3m1UjojPng6d0IDqiEEWRa2\nxckFX10ax32CH5kLRDKI/F/5mUQETe6EGjMovH/jApI858mhpRMnOc6C85HvSiwG\nQEu0IXPVV3FrcxMk7LjFbmqURFFpjC5VaHaQA9dc6T423Pe9GXOSdhhKAQKBgQDV\nwz+gX6IGO6VYfoOuZR33T6wc1RgL4fIigI5xnTh+iowchqE4MEQhYFpQU4zwXZrR\nbrL1zYIk3hHVFAAHoLANBRPBYg1cR4Ht6YAjEKfRDgyHI/oaRPYMm4fuyCfcIwZX\nmLw4+etn/2P8ykVLskfesnGhvQiAeFcnJ/cMKhqmvQKBgQCHZNtSh9UqHDAwh1Qa\nrwwYzCw8vGYf7ihWLYRRZZ7+tJGkAbocCaxur+2xctPCv6KSitQ8EwkOmc6u9X2Y\nPfyhUqnBkdutXpdD3xdRgDSHutB13Exx01zNZeWf82p+er/3Y5UEjSq5o/b+OJzY\n8X2JyvNLsSLJc0laiENKwFKA2A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-gtfx8@birthday-reminder-6989e.iam.gserviceaccount.com",
+  "client_id": "104010232781332444472",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gtfx8%40birthday-reminder-6989e.iam.gserviceaccount.com"
+}
